@@ -1,4 +1,4 @@
-package de.fuchs.playground;
+package de.fuchs.playground.hashmap;
 
 public class MyKeyReplace {
 
